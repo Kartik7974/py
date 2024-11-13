@@ -86,3 +86,5 @@ gem 'jwt'
 # Gemfile
 # gem 'activeadmin', '~> 3.2.5'
 gem 'devise', '~> 4.8'  # Specify a compatible Devise version
+
+gem 'pg'
